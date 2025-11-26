@@ -2,6 +2,11 @@
 
 node.js backend using Express. uses OMDB API.
 
+## Testing results
+
+Api has been tested. in-memory cache is also caching perfectly.
+<img width="833" height="481" alt="image" src="https://github.com/user-attachments/assets/e692dc7e-1a2a-4540-83eb-8d40d245fa9b" />
+
 
 ## Setup
 
